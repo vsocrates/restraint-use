@@ -238,3 +238,6 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,python,jupyternotebooks,visualstudiocode
 
+# Custom
+annotations/
+*.csv
